@@ -17,7 +17,6 @@ $node ai.js the text of your query<br>
 For simpler use:<br>
 set script file permission to be executable<br>
 $chmod +x ai.js<br>
-$chmod u+rwx,g+rwx,o+rwx ai.js<br>
 <br>
 
 Rename ai.js to just ai or preferred command name<br>
